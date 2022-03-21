@@ -1,0 +1,5 @@
+﻿1) Arduino Uno (1)
+2) LM35 (1)
+3) Mosfet (1)
+4) 100 Ohm Resistor (2)
+5) Peltier Cooler (1)
